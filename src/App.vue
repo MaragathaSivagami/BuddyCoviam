@@ -5,11 +5,7 @@
   </div>
 </template>
 
-<script>
-export default {
-  name: 'App'
-}
-</script>
+<script src="../src/app.js"></script>
 
 <style>
 #app {
